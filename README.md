@@ -11,4 +11,6 @@ and aggregations based on some conditions then load the processed data to sql se
 5. recombine the data into one table
 6. typecasting the data to be compatible with the destination
 7. load data into sqlserver 
+![image](https://github.com/abdelrhmanwahba/weirdstats-SSIS/assets/43261845/b81a1349-1fb8-4387-b78a-7d091db2537a)
+![image](https://github.com/abdelrhmanwahba/weirdstats-SSIS/assets/43261845/9d40b029-60f8-4b1e-8167-bfd92d657d23)
 
